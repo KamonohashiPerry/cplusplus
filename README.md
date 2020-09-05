@@ -13,6 +13,8 @@ C++の勉強用のリポジトリです。
 + VS Code
 + C/C++ extension for VS Code
 + Code Runner
+  + コードランナーで処理を止めるには？
+     + Ctrl + Alt + Mを押せばよい。
 
 ### ターミナルでコンパイルするにはどうやるの？
 Macだとターミナルで  
