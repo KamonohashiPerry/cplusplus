@@ -9,7 +9,7 @@ union Year{
 
 int main()
 {
-    Year myyear;
+    Year myyear; // 共用体型の変数を宣言
 
     cout << "西暦を入力してください。\n";
     cin >> myyear.ad;

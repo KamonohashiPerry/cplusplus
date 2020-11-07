@@ -20,7 +20,7 @@ int main()
     cout << "ガソリン量を入力してください。\n";
     cin >> car1.gas;
 
-    show(car1);
+    show(car1);　
 
     return 0;
 }
