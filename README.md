@@ -52,3 +52,6 @@ g++ -o output Sample1.cpp
 + グローバル変数とローカル変数で同じ名前を使うことができる。
 + ローカル変数にstaticをつけるとグローバル変数と同じような寿命で使える。
 + グローバル変数をいっぱい使うとメモリの無駄遣いにも繋がるので、new演算子やdelete演算子でメモリを解放しつつ、変数を使い回すという配慮が必要となる。
+
+### 参考情報
++ clang: error: linker command failed with exit code 1 (use -v to see invocation)というエラーが出た時:https://qiita.com/shuntarou/items/ee6b232a0dbdfbba7f29
